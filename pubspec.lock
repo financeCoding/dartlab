@@ -61,6 +61,10 @@ packages:
     description: markdown
     source: hosted
     version: "0.7.1+2"
+  matcher:
+    description: matcher
+    source: hosted
+    version: "0.11.4"
   observe:
     description: observe
     source: hosted
@@ -117,6 +121,10 @@ packages:
     description: template_binding
     source: hosted
     version: "0.14.0"
+  unittest:
+    description: unittest
+    source: hosted
+    version: "0.11.5+2"
   usage:
     description: usage
     source: hosted
